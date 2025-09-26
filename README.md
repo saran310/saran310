@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I am a Aspiring Data Analyst with a growing understanding of data visualization, statistical analysis, and predictive<br>analytics.<br><br>👯 I’m looking to collaborate on Passionate about uncovering insights from data to drive informed decision-making and eager to gain<br>hands-on experience in analytics and business intelligence.<br><br>🌱 I’m currently doing my degree on M.Sc. Data Science course<br><br>
+I’m looking to collaborate on Passionate about uncovering insights from data to drive informed decision-making and eager to gain<br>hands-on experience in analytics and business intelligence.<br><br>
 
 
 ## 🌐 Socials:
